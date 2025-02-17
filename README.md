@@ -1,5 +1,6 @@
 Ce projet se concentre sur l'analyse de la base de données HMEQ (Home Equity) pour prédire le risque de défaut des clients ayant souscrit des prêts sur la valeur de leur domicile. En utilisant des techniques de machine learning, l'objectif est d'identifier les profils à risque et de faciliter des décisions de prêt plus éclairées, tout en optimisant l'efficacité et la précision du processus.
 
+Auteures: VO Nguyen Thao Nhi, CHEKALINA Alisa, CRISTEA Carmen, GASPARIN Lia
 
 Pour activer l'environnement virtuel, exécutez les commandes suivantes :
 
